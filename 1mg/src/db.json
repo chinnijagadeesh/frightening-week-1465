@@ -1,0 +1,773 @@
+{
+  
+  "data": [
+   {"name":"Popular categories" , 
+    "arr":[
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/juirlbp3erjibsbbckp6.png",
+         "title": "Zandu",
+           "para":"",
+           "para1":"",
+            "price":""  
+       },
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/mb8c6ozhfjz7uo8fveoh.png",
+         "title": "Sri Sri Tattva",
+          "para":"",
+          "para1":"",
+
+"price":""         },
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/zdpovu5qoqj7snzwwk0l.png",
+         "title": "HealthVit",
+            "para":"",
+            "para1":"",  
+            "price":""
+        },
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/sojsfqsqrtwqgdpg5jlc.png",
+         "title": "Dr Willmar Schwabe India",
+            "para":"",
+            "para1":"",  
+            "price":""
+        },
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/jk8ruwbfjbg17qteedfc.png",
+         "title": "Dr. Vaidya's",
+            "para":"",
+            "para1":"",  
+            "price":""
+        },
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/lhy8nkmahfcuzgdt0wov.png",
+         "title": "Dr. Morepen",
+            "para":"",
+            "para1":"",  
+            "price":""
+        },
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/czkmcjsgoq9ysbbk4a4l.jpg",
+         "title": "Baidyanath(Nagpur)",
+            "para":"",
+            "para1":"",  
+            "price":""
+        },
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/mlns0jugfaleyccybiag.png",
+         "title": "Skore",
+            "para":"",
+            "para1":"",  
+            "price":""
+        },
+        {
+         "id": 1,
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/wnm3oezecpq5dt9g8qpd.jpg",
+         "title": "Vicks",
+            "para":"",
+            "para1":"",  
+            "price":""
+        }
+      ]}, 
+
+      {"name":"Top Sellers From Zydus Wellness" , 
+      "arr":[
+          {
+           "id": 1,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cabpuknnlyyzgqfnb4x5.png",
+           "title": "Vitamins & Supplements",
+             "para":"",
+             "para1":"",
+            "price":""     
+                },
+          {
+           "id": 2,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/x2z8u1osqutmxvx56hlw.png",
+           "title": "Ayurveda",
+            "para":"",
+            "para1":"",
+            "price":""  
+                },
+          {
+           "id": 3,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/fbigjgxv2wquqqb3galn.png",
+           "title": "Health Devices",
+              "para":"",
+              "para1":"",
+              "price":""  
+          },
+          {
+           "id": 4,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/uq1gwxslqqrxxwv6zi6j.jpg",
+           "title": "Nutritional Drinks",
+              "para":"",
+              "para1":"",
+              "price":""  
+          },
+          {
+           "id": 5,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/p1blaka183nc1zlil8tq.png",
+           "title": "Sexual Wellness",
+              "para":"",
+              "para1":"",
+              "price":""  
+          },
+          {
+           "id": 6,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/j7ruar88gacbzksuadjn.png",
+           "title": "Homeopathy",
+              "para":"",
+              "para1":"",
+              "price":""  
+          },
+          {
+           "id": 7,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/h8qo5dk91lliwwihbwnf.png",
+           "title": "Diabetes Care",
+              "para":"",
+              "para1":"",
+              "price":""  
+          },
+          {
+           "id": 8,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/bkhusfgfiu9qedowph2i.png",
+           "title": "Skin Care",
+              "para":"",
+              "para1":"",
+              "price":""  
+          },
+          {
+           "id": 9,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/au6x9ngzsixzfzae9pyv.png",
+           "title": "Pain Relief",
+              "para":"",
+              "para1":"",
+              "price":""  
+          }
+        ]},
+        {"name":"Multivitamins | Supplement of the week" , 
+        "arr":[
+            {
+             "id": 1,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/wc72tbagnjxcn8fbm8tc.jpg",
+             "title": "Sugar Free Natura Low Calorie Sweetener...",
+               "para":"jar of 1kg powder",
+               "para1":"MRP ₹950 10%off",
+              "price":"855"     
+                  },
+            {
+             "id": 2,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/bpgstknem0udqzp9p4dm.jpg",
+             "title": "Sugar Free Gold Low Calorie Sweetener",
+              "para":"bottle of 500 pellets",
+              "para1":"MRP ₹285 7%off",
+              "price":"265"  
+                  },
+            {
+             "id": 3,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/d8wetugtajdasve7gg0u.jpg",
+             "title": "Sugar Free Natura Low Calorie Sweetener...",
+                "para":"bottle of 500 pellets",
+                "para1":"MRP ₹300 8%off",
+                "price":"276"  
+            },
+            {
+             "id": 4,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wubkjjw6h5mjqbumrndj.jpg",
+             "title": "Sugar Free Gold Low Calorie Sweetener",
+                "para":"bottle of 100 gm Powder",
+                "para1":"MRP ₹150 4%off",
+                "price":"143"  
+            },
+            {
+             "id": 5,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ff1onpwycfem2uf0m2fy.jpg",
+             "title": "Sugar Free Green Stevia pellets",
+                "para":"bottle of 300 pellets",
+                "para1":"MRP ₹215 9%off",
+                "price":"194"  
+            },
+            {
+             "id": 6,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ugezedfreqybpk0biswf.jpg",
+             "title": "Complan Nutrition and Health Drink with Pow...",
+                "para":"box of 1 kg Powder",
+                "para1":"MRP ₹470 16%off",
+                "price":"395"  
+            },
+            {
+             "id": 7,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/q3wiyzvmbz5iazlwxywa.jpg",
+             "title": "Complan Nutrition and Health Drink with Pow...",
+                "para":"jar of 500 gm Powder",
+                "para1":"MRP ₹335 5%off",
+                "price":"318"  
+            },
+            {
+             "id": 8,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/33f8678968144f49afae6907df4f716d.jpg",
+             "title": "Complan Nutrition and Health Drink with Pow...",
+                "para":"box of 500 gm Powder",
+                "para1":"MRP ₹325 12%off",
+                "price":"285"  
+            },
+            {
+             "id": 9,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/p9vfgdajqog15vd3nbjm.jpg",
+             "title": "Complan Nutrition and Health Drink with Pow...",
+                "para":"box of 750 gm Powder",
+                "para1":"MRP ₹399 14%off",
+                "price":"343"  
+            }
+          ]},
+          {"name":"Shop by Health Concerns" , 
+          "arr":[
+              {
+               "id": 1,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qh1au45w8u7cfvf3lg3i.jpg",
+               "title": "Tata 1mg Women's Multivitamin, Zinc,...",
+                 "para":"bottle of 60 tablets",
+                 "para1":"MRP ₹995 60%off",
+                "price":"398"     
+                    },
+              {
+               "id": 2,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/aywb3kusfcv1tnyyt8qy.jpg",
+               "title": "Dr. Morepen Multi Vitamin Men with...",
+                "para":"bottle of 60 tablets",
+                "para1":"MRP ₹999 28%off",
+                "price":"721"  
+                    },
+              {
+               "id": 3,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/klpj2khvaphkvpqmchui.jpg",
+               "title": "Tata 1mg Senior 50+ Multivitamin &...",
+                  "para":"bottle of 60 tablets",
+                  "para1":"MRP ₹895 55%off",
+                  "price":"398"  
+              },
+              {
+               "id": 4,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gmkrpf1imjj9djwvq4gq.jpg",
+               "title": "Tata 1mg Multivitamin Supreme, Zinc, Calciu...",
+                  "para":"strip of 15 tablets",
+                  "para1":"MRP ₹105 17%off",
+                  "price":"87"  
+              },
+              {
+               "id": 5,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/omz1zuuelyaqnupl0wwe.png",
+               "title": "Maxirich Multivitamin & Minerals Softgel",
+                  "para":"box of 30 soft gelatin cap...",
+                  "para1":"MRP ₹357 40%off",
+                  "price":"214"  
+              },
+              {
+               "id": 6,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zaoniru9woncxf4acu5z.jpg",
+               "title": "Supradyn Daily Multivitamin Tablet wi...",
+                  "para":"strip of 15 tablets",
+                  "para1":"MRP ₹54.9 14%off",
+                  "price":"47"  
+              },
+              {
+               "id": 7,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/n8qtlrzyyxtlhwrn4uyf.jpg",
+               "title": "Health OK Multivitamin & Multimineral Tablet...",
+                  "para":"strip of 15 tablets",
+                  "para1":"MRP ₹150 18%off",
+                  "price":"123"  
+              },
+              {
+               "id": 8,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xqljyyelnecasglguvf6.jpg",
+               "title": "Tata 1mg Multivitamin Supreme, Zinc, Calciu...",
+                  "para":"bottle of 30 tablets",
+                  "para1":"MRP ₹369 9%off",
+                  "price":"325"  
+              },
+              {
+               "id": 9,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/q58rjxdaynvly9s1xfj7.jpg",
+               "title": "Carbamide Forte Multivitamins with...",
+                  "para":"bottle of 60 tablets",
+                  "para1":"MRP ₹550 10%off",
+                  "price":"495"  
+              }
+    
+            ]}
+            ,
+            {"name":"Sugar substitutes" , 
+      "arr":[
+          {
+           "id": 1,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/hgzkyio2rphkn6wjif94.png",
+           "title": "Diabetes Care",
+             "para":"",
+            "price":""     
+                },
+          {
+           "id": 2,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/zo7sc14nqpt6ebeojkvr.png",
+           "title": "Cardiac Care",
+            "para":"",
+            "price":""  
+                },
+          {
+           "id": 3,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ttagxlnxulsvkyv9fetr.png",
+           "title": "Stomach Care",
+              "para":"",
+              "price":""  
+          },
+          {
+           "id": 4,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ijgn7fhyq8ig0welmrcp.png",
+           "title": "Live Care",
+              "para":"",
+              "price":""  
+          },
+          {
+           "id": 5,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/zytsldnf5mvb0u19ydep.png",
+           "title": "Kidney Care",
+              "para":"",
+              "price":""  
+          },
+          {
+           "id": 6,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ywohqm4txnehsmibypaz.png",
+           "title": "Bone, Joint AND Muscle Care",
+              "para":"",
+              "price":""  
+          },
+          {
+           "id": 7,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/hn5bpr1ci2do5kdub51v.png",
+           "title": "Pain Relief",
+              "para":"",
+              "price":""  
+          },
+          {
+           "id": 8,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/hr9vysj9cy0sfjs3mpg0.png",
+           "title": "Respiratory Care",
+              "para":"",
+              "price":""  
+          },
+          {
+           "id": 9,
+              "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/t0ehbhfrkughfxoygvs2.png",
+           "title": "Eye Care",
+              "para":"",
+              "price":""  
+          }
+
+        ]},
+        {"name":"Multivitamins | Supplement of the week" , 
+        "arr":[
+            {
+             "id": 1,
+             "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/bpgstknem0udqzp9p4dm.jpg",
+             "title": "Sugar Free Gold Low Calorie Sweetener",
+              "para":"bottle of 500 pellets",
+              "para1":"MRP ₹285 7%off",
+              "price":"265"      
+                  },
+            {
+             "id": 2,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fud0ky8qdz1mupsc58ze.jpg",
+             "title": "So Sweet Stevia Sugar Free Tablet",
+              "para":"packet of 100 tablets",
+              "para1":"MRP ₹120 1%off",
+              "price":"118"  
+                  },
+            {
+             "id": 3,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/d8wetugtajdasve7gg0u.jpg",
+             "title": "Sugar Free Natura Low Calorie Sweetener...",
+                "para":"bottle of 500 pellets",
+                "para1":"MRP ₹300 8%off",
+                "price":"276"  
+            },
+            {
+             "id": 4,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/kuhv7g7ouhb8jwhvsgmk.jpg",
+             "title": "So Sweet Xylitol Powder Natural Sweetener",
+                "para":"packet of 250 gm Pouch",
+                "para1":"MRP ₹350 6%off",
+                "price":"327"  
+            },
+            {
+             "id": 5,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jadahxgbfiupbmy8sxve.jpg",
+             "title": "Lakanto Monkfruit Sweetener with...",
+                "para":"bottle of 250 gm Granules",
+                "para1":"MRP ₹525 9%off",
+                "price":"475"  
+            },
+            {
+             "id": 6,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/d0pmwxnsd3fuh1jyf0x2.png",
+             "title": "Alma Stevia Tablet Natural Sweetener",
+                "para":"bottle of 175 tablets",
+                "para1":"MRP ₹470 16%off",
+                "price":"395"  
+            },
+            {
+             "id": 7,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/qndluvrpo7fud9hpetjj.jpg",
+             "title": "Powtin Gold Sugar Free Powder Kesar Elaichi",
+                "para":"box of 200 gm Powder",
+                "para1":"MRP ₹360 14%off",
+                "price":"310"  
+            },
+            {
+             "id": 8,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/33f8678968144f49afae6907df4f716d.jpg",
+             "title": "Complan Nutrition and Health Drink with Pow...",
+                "para":"box of 500 gm Powder",
+                "para1":"MRP ₹325 12%off",
+                "price":"285"  
+            },
+            {
+             "id": 9,
+                "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/p9vfgdajqog15vd3nbjm.jpg",
+             "title": "Complan Nutrition and Health Drink with Pow...",
+                "para":"box of 750 gm Powder",
+                "para1":"MRP ₹399 14%off",
+                "price":"343"  
+            }
+          ]},
+          {"name":"Popular categories" , 
+          "arr":[
+              {
+               "id": 1,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/gakjirkcnn7wvbyppdro.jpg",
+               "title": "Revilus Shampoo with Procapil & Biotin, Dail...",
+                 "para":"bottle of 100 ml Shampoo",
+                 "para1":"MRP ₹422 14%off",
+                "price":"362"     
+                    },
+              {
+               "id": 2,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vku1bgimm9wicwhrhbma.jpg",
+               "title": "Cofsils Lozenges Orange",
+                "para":"strip of 10 lozenges",
+                "para1":"MRP ₹30 20%off",
+                "price":"24"  
+                    },
+              {
+               "id": 3,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/mmotn7nsupwrexcp0pvi.jpg",
+               "title": "Tata 1mg Hair, Skin & Nails Supreme...",
+                  "para":"bottle of 60 capsules",
+                  "para1":"MRP ₹695 42%off",
+                  "price":"398"  
+              },
+              {
+               "id": 4,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/klpj2khvaphkvpqmchui.jpg",
+               "title": "Tata 1mg Senior 50+ Multivitamin &...",
+                  "para":"bottle of 60 tablets",
+                  "para1":"MRP ₹895 55%off",
+                  "price":"398"  
+              },
+              {
+               "id": 5,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wb4ndsavl7ixslwyohbi.jpg",
+               "title": "Vicks Vaporub Value Pack",
+                  "para":"bottle of 50 gm Balm",
+                  "para1":"MRP ₹155 6%off",
+                  "price":"145"  
+              },
+              {
+               "id": 6,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/liou0jzkzu4hmvrrunz9.jpg",
+               "title": "Protinex Diabetes Care Vanilla",
+                  "para":"bottle of 200 gm Powder",
+                  "para1":"MRP ₹399 14%off",
+                  "price":"359"  
+              },
+              {
+               "id": 7,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/g3maimvrdml91wvwyps1.jpg",
+               "title": "Brufen Power Pain Relief 800 Sprays",
+                  "para":"bottle of 40 ml spray",
+                  "para1":"MRP ₹150 14%off",
+                  "price":"128"  
+              },
+              {
+               "id": 8,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/av0jqgkny1wklrghrknm.jpg",
+               "title": "Baidyanath (Noida) Bhringrajasava",
+                  "para":"bottle of 450 ml Liquid",
+                  "para1":"MRP ₹185 5%off",
+                  "price":"176"  
+              },
+              {
+               "id": 9,
+                  "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gc3u9gfc331wtsipnljl.jpg",
+               "title": "Tata 1mg Calcium + Vitamin D3, Zinc,...",
+                  "para":"bottle of 60 tablets",
+                  "para1":"MRP ₹595 48%off",
+                  "price":"310"  
+              }
+    
+            ]}
+
+   ],
+   "data1": [
+      {"name":"Skin Care" , 
+      "arr":[
+         {
+            "id": 1,
+               "img": "https://onemg.gumlet.io/image/upload/sdzsl07upy0u3sxckqyj.jpg",
+            "title": "Ashwagandha",
+             "para":"Ashwagandha is an important herb of the Ayurvedic system of medicine. It is also know..",
+             "price":""  
+                 },
+          {
+           "id": 2,
+              "img": "https://onemg.gumlet.io/image/upload/qh2zgvxci0mazembq9rs.jpg",
+              "title": "Shilajit",
+              "para":"Shilajit is a mineral based extract which is pale-brown to blackish-brown in color, I...",
+              "price":""   
+                },
+          {
+           "id": 3,
+              "img": "https://onemg.gumlet.io/image/upload/un9aranb98jy80ihbj95.jpg",
+              "title": "Giloy",
+              "para":"Giloy, also known as Amrita or Guduchi in Hindi, is an herb that helps improve digest...",
+              "price":""  
+          },
+          {
+           "id": 4,
+              "img": "https://onemg.gumlet.io/image/upload/irazjokdgsiiuw6abiph.jpg",
+              "title": "Amla",
+              "para":"Amla, also known as “Indian gooseberry”, is loaded with nutrients and is the richest...",
+              "price":""  
+          },
+          {
+           "id": 5,
+              "img": "https://onemg.gumlet.io/image/upload/wmbvvqjtdbp8svncngbb.jpg",
+              "title": "Isabgol",
+              "para":"Turmeric is an ancient spice which has been used mainly in cooking. It is a...",
+              "price":""   
+          },
+          {
+           "id": 6,
+              "img": "https://onemg.gumlet.io/image/upload/s86txjtecyd8kbcjf7dv.jpg",
+              "title": "Turmeric",
+              "para":"Turmeric is an ancient spice which has been used mainly in cooking. It is also used a...",
+              "price":""  
+          },
+          {
+           "id": 7,
+              "img": "https://onemg.gumlet.io/image/upload/qf6foj1ecxfkbtjvibz0.jpg",
+           "title": "Shatavari",
+              "para":"Shatavari is an Ayurvedic rasayana herb which is also known as the female-friendly he...",
+              "price":""  
+          },
+          {
+           "id": 8,
+              "img": "https://onemg.gumlet.io/image/upload/prncxs7zhvdk3imctkzk.jpg",
+           "title": "Apple cider vinegar",
+              "para":"Apple cider vinegar or ACV is a health tonic for strength and power. It is prepared b...",
+              "price":""  
+          },
+          {
+           "id": 9,
+              "img": "https://onemg.gumlet.io/image/upload/q3lxrcgk8iok8lvx9lap.jpg",
+           "title": "Honey",
+              "para":"Honey is a viscous substance rich in a number of nutrients. In Ayurveda, it is called...",
+              "price":""  
+          }
+
+        ]},
+        {"name":"Digestive Care" , 
+        "arr":[
+           {
+              "id": 1,
+                 "img": "https://onemg.gumlet.io/image/upload/qclivlzn55hbfukf2mjn.jpg",
+              "title": "Aloe vera",
+               "para":"Aloe vera is a cactus-like succulent plant with a clear healing gel in the leaves. Th...",
+               "price":""  
+                   },
+                   {
+                     "id": 2,
+                        "img": "https://onemg.gumlet.io/image/upload/q3lxrcgk8iok8lvx9lap.jpg",
+                     "title": "Honey",
+                        "para":"Honey is a viscous substance rich in a number of nutrients. In Ayurveda, it is called...",
+                        "price":""  
+                    },
+                    {
+                     "id": 3,
+                        "img": "https://onemg.gumlet.io/image/upload/prncxs7zhvdk3imctkzk.jpg",
+                     "title": "Apple cider vinegar",
+                        "para":"Apple cider vinegar or ACV is a health tonic for strength and power. It is prepared b...",
+                        "price":""  
+                    },
+            {
+               "id": 4,
+                  "img": "https://onemg.gumlet.io/image/upload/s86txjtecyd8kbcjf7dv.jpg",
+                  "title": "Turmeric",
+                  "para":"Turmeric is an ancient spice which has been used mainly in cooking. It is also used a...",
+                  "price":""  
+              },
+            {
+             "id": 5,
+                "img": "https://onemg.gumlet.io/image/upload/wmbvvqjtdbp8svncngbb.jpg",
+                "title": "Isabgol",
+                "para":"Turmeric is an ancient spice which has been used mainly in cooking. It is a...",
+                "price":""   
+            },
+            {
+             "id": 7,
+                "img": "https://onemg.gumlet.io/image/upload/qf6foj1ecxfkbtjvibz0.jpg",
+             "title": "Shatavari",
+                "para":"Shatavari is an Ayurvedic rasayana herb which is also known as the female-friendly he...",
+                "price":""  
+            },
+            {
+             "id": 8,
+                "img": "https://onemg.gumlet.io/image/upload/prncxs7zhvdk3imctkzk.jpg",
+             "title": "Apple cider vinegar",
+                "para":"Apple cider vinegar or ACV is a health tonic for strength and power. It is prepared b...",
+                "price":""  
+            }
+  
+          ]},
+          {"name":"Hair Care" , 
+          "arr":[
+             {
+                "id": 1,
+                   "img": "https://onemg.gumlet.io/image/upload/qgyjmltpxtbcvd9yfcw0.jpg",
+                "title": "Alsi",
+                 "para":"Alsi or Flax seeds are important oil seeds which are used for various medicinal benefits",
+                 "price":""  
+                     },
+              {
+               "id": 2,
+                  "img": "https://onemg.gumlet.io/image/upload/kfvmisbzvvsfrwdrnfkx.jpg",
+                  "title": "Shilajit",
+                  "para":"Ginger is used as a spice, flavoring agent as well as herbal remedy in almost every I...",
+                  "price":""   
+                    },
+              {
+               "id": 3,
+                  "img": "https://onemg.gumlet.io/image/upload/aajb2xlk0rrf1ihnfssk.jpg",
+                  "title": "Dhania",
+                  "para":"Dhania or Coriander is an evergreen herb with a characteristic aroma. Dried seeds of...",
+                  "price":""  
+              },
+              {
+               "id": 4,
+                  "img": "https://onemg.gumlet.io/image/upload/tx3eulyzgfldbt7igzke.jpg",
+                  "title": "Fennel seeds",
+                  "para":"Fennel seeds are popularly known as Saunf in Hindi. It is an ancient Indian spice wit...",
+                  "price":""  
+              },
+              {
+               "id": 5,
+                  "img": "https://onemg.gumlet.io/image/upload/wmbvvqjtdbp8svncngbb.jpg",
+                  "title": "Isabgol",
+                  "para":"Turmeric is an ancient spice which has been used mainly in cooking. It is a...",
+                  "price":""   
+              },
+              {
+               "id": 6,
+                  "img": "https://onemg.gumlet.io/image/upload/s86txjtecyd8kbcjf7dv.jpg",
+                  "title": "Turmeric",
+                  "para":"Turmeric is an ancient spice which has been used mainly in cooking. It is also used a...",
+                  "price":""  
+              },
+              {
+               "id": 7,
+                  "img": "https://onemg.gumlet.io/image/upload/qf6foj1ecxfkbtjvibz0.jpg",
+               "title": "Shatavari",
+                  "para":"Shatavari is an Ayurvedic rasayana herb which is also known as the female-friendly he...",
+                  "price":""  
+              },
+              {
+               "id": 8,
+                  "img": "https://onemg.gumlet.io/image/upload/prncxs7zhvdk3imctkzk.jpg",
+               "title": "Apple cider vinegar",
+                  "para":"Apple cider vinegar or ACV is a health tonic for strength and power. It is prepared b...",
+                  "price":""  
+              },
+              {
+               "id": 9,
+                  "img": "https://onemg.gumlet.io/image/upload/q3lxrcgk8iok8lvx9lap.jpg",
+               "title": "Honey",
+                  "para":"Honey is a viscous substance rich in a number of nutrients. In Ayurveda, it is called...",
+                  "price":""  
+              }
+    
+            ]},
+            {"name":"" , 
+            "arr":[
+               {
+                  "id": 1,
+                     "img": "https://onemg.gumlet.io/image/upload/ezfdfqum4v4j5eve0sqo.jpg",
+                  "title": "Onion",
+                   "para":"Onion or Pyaaz has a strong pungent smell and is used in various forms to impart flav...",
+                   "price":""  
+                       },
+                       {
+                         "id": 2,
+                            "img": "https://onemg.gumlet.io/image/upload/oxbavfj3ka8nzu3kijq0.jpg",
+                         "title": "Bhringraj",
+                            "para":"Bhringraj is also known as Kesharaj which means “Ruler of the hair”. It is rich in pr...",
+                            "price":""  
+                        },
+                        {
+                         "id": 3,
+                            "img": "https://onemg.gumlet.io/image/upload/irazjokdgsiiuw6abiph.jpg",
+                         "title": "Amla",
+                            "para":"Amla, also known as “Indian gooseberry”, is loaded with nutrients and is the richest ...",
+                            "price":""  
+                        },
+                {
+                   "id": 4,
+                      "img": "https://onemg.gumlet.io/image/upload/jjuvxnubrxztnibqkp8w.jpg",
+                      "title": "Shikakai",
+                      "para":"Shikakai which means “fruit for hair” is a part of the traditional Indian Ayurvedic m...",
+                      "price":""  
+                  },
+                {
+                 "id": 5,
+                    "img": "https://onemg.gumlet.io/image/upload/wmbvvqjtdbp8svncngbb.jpg",
+                    "title": "Isabgol",
+                    "para":"Turmeric is an ancient spice which has been used mainly in cooking. It is a...",
+                    "price":""   
+                },
+                {
+                 "id": 7,
+                    "img": "https://onemg.gumlet.io/image/upload/qf6foj1ecxfkbtjvibz0.jpg",
+                 "title": "Shatavari",
+                    "para":"Shatavari is an Ayurvedic rasayana herb which is also known as the female-friendly he...",
+                    "price":""  
+                },
+                {
+                 "id": 8,
+                    "img": "https://onemg.gumlet.io/image/upload/prncxs7zhvdk3imctkzk.jpg",
+                 "title": "Apple cider vinegar",
+                    "para":"Apple cider vinegar or ACV is a health tonic for strength and power. It is prepared b...",
+                    "price":""  
+                }
+      
+              ]}
+
+         ]
+
+ 
+}
+

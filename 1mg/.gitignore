@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .git
+./Ayurvedha
 # testing
 /coverage
 
