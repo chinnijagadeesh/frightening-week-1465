@@ -1,0 +1,411 @@
+.App {
+  text-align: center;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+/* .dropdown { */
+  /* position: relative; */
+  /* display: inline-block; */
+  /* background-color: #61dafb; */
+/* } */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  padding:5px  16px ;
+}
+.nav-item:hover,.dropdown-item:hover{
+  color: tomato;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  font-size:13px;
+  min-width: 150px;
+  box-shadow: rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  z-index: 1;
+}
+
+
+.dropdown{
+  font-size:14px;
+  font-weight: 500;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: transparent;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.d1
+{
+  width: 65%;
+  /* padding: 0px 10px; */
+  height: 256px;
+}
+.d2
+{
+  width: 35%;
+  height: 256px;
+}
+
+.btn
+{background-color: tomato;
+font-size: 12px;
+border:none ;
+font-weight: bold;}
+
+.btn:hover
+{
+background-color: tomato;
+border: none;
+}
+.save
+{
+  border-radius: 2px;
+font-size: 10px;
+}
+/* .fw-normal,.text-secondary
+{
+
+} */
+
+
+
+
+
+                                                                                        /* Image work */
+                                                                                        /* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:none;
+} */
+
+
+.App {
+  width: 100%;
+  margin: auto;
+  /* margin: 30px; */
+  
+}
+
+.cb-centermode input {
+  margin-right: 7px;
+}
+
+/* card style start */
+
+.img-card {
+  border-radius: 4px;
+  background: #f5f5f5;
+  color: #666;
+  overflow: hidden;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.img-card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  /* color: #3e8e41; */
+  background-color: #3e8e41;
+}
+
+.img {
+  width: 100%;
+  height: 200px;
+  display: block;
+  margin: auto;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card-text {
+  margin-top: 10px;
+}
+
+/* card style end */
+
+
+/* carousel slider style start */
+
+.slick-slide > div {
+  margin: 0 10px;
+ 
+}
+
+.slick-list {
+  
+  margin: 0 -10px;
+}
+
+.slick-slide *:focus{
+  outline: none;
+ 
+}
+
+.slide{
+margin-left: -10px;
+}
+.padding
+{
+  padding:0 5%;
+}
+.padding1
+{
+  padding: 0px 5%; 
+}
+
+.width
+{
+  padding: 15px;
+  border-radius: 10px;
+  width: 140px;
+}
+
+.width1
+{
+  border-radius: 10px;
+  width: 110px;
+  padding: 15px;
+  display :flex;
+}
+
+.Ayurvedha{
+  margin:2px;
+  border: 1px solid #0333;
+  border-radius:10px ;
+}
+.Ayurvedha:hover
+{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.AyurvedCont
+{
+  padding: 2% 10%; 
+}
+.Ayurvedha img
+{
+border-radius: 10px 10px 0px 0px;
+}
+.boxhgt:hover
+{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.boxhgt1
+{
+  height: 230px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.boxhgt2
+{
+  height: 55px;
+ 
+}
+
+b
+{
+  color: #666;
+}
+
+.sm
+{
+  font-size: 11px;
+  color: #666;
+}
+
+                                                                                                            /* justify-content-between for footer */
+.justify-content-between
+{
+  width: 100%;
+  padding: 0px 12%;
+  border-bottom: 1px solid rgb(221, 219, 219);
+}
+
+.download
+{
+  padding-left:25%;
+}
+
+.download input
+{
+  border: none;
+  width: 30%;;
+}
+
+                                                                                                                  /* footer part */
+.small
+{
+  font-size: 13px;
+ 
+}
+
+                                                                                                                  
+.btmftr
+{
+
+  background-color:rgb(254, 243, 246)
+}
+
+.footerpara p
+{
+  font-size: 12px;
+  color: #666;
+
+}
+
+
+                                                                                                                  /* Footer last font */
+.size
+{
+  color: rgb(170, 169, 169);
+  font-size: 14px;
+}
+
+.EmpCart
+{
+ font-family:  "Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+ background-color: #fff;;
+}
+      
+
+                                                                                            /* Para1 font in landing page  */
+  .p1fnt{
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+
+/* html,
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+  background-color: #3c3c3c;
+} */
+
+/* 
+.carder {
+  position: relative;
+  height:256px;
+  overflow: hidden;
+
+  border-radius: 5px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.card_part {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 7;
+
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 80%;
+  
+  transform: translateX( 800px );
+  background-image: url( https://onemg.gumlet.io/b4beeb93-c829-46fa-9700-257dc70e994f_1660819362.jpg?w=1013&h=250&format=auto );
+  
+  animation: opaqTransition 28s cubic-bezier(0, 0, 0, 0.97) infinite;
+} */
+/* https://onemg.gumlet.io/a_ignore,w_1013,h_250,c_fit,q_auto,f_auto/sxic0awb3dpfpickvjlk.png",
+"https://onemg.gumlet.io/a_ignore,w_1013,h_250,c_fit,q_auto,f_auto/a7v2ipno4azmdu6cnjuu.png",
+"https://onemg.gumlet.io/a_ignore,w_1013,h_250,c_fit,q_auto,f_auto/kcdcsb5yrkpxok5bpm8y.png",
+"https://onemg.gumlet.io/d46e2c6b-983c-464b-a792-cffd78ac48df_1660808836.png?w=1013&h=250&format=auto */
+/* 
+.card_part.card_part-two {
+  z-index: 6;
+  background-image: url( https://onemg.gumlet.io/a_ignore,w_1013,h_250,c_fit,q_auto,f_auto/sxic0awb3dpfpickvjlk.png );
+  animation-delay: 7s;
+}
+
+.card_part.card_part-three {
+  z-index: 5;
+  background-image: url( https://onemg.gumlet.io/a_ignore,w_1013,h_250,c_fit,q_auto,f_auto/kcdcsb5yrkpxok5bpm8y.png );
+  animation-delay: 14s;
+}
+
+.card_part.card_part-four {
+  z-index: 4;
+  background-image: url(https://onemg.gumlet.io/d46e2c6b-983c-464b-a792-cffd78ac48df_1660808836.png?w=1013&h=250&format=auto  );
+  animation-delay: 21s;
+}
+
+
+@keyframes opaqTransition {
+  3% { transform: translateX( 0 ); }
+  25% { transform: translateX( 0 ); }
+  28% { transform: translateX( -1013px ); }
+  100% { transform: translateX( -1013px ); }
+} */
